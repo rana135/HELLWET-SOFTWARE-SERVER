@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Teaching A Class",
+        "description": "The task was to teach a class on a specific topic, which could be academic, vocational, or personal interest-based. The task required creating a lesson plan, organizing the classroom, delivering the material in an engaging and informative way, answering questions from students, and assessing the students' understanding of the material.",
+        "created_at": "2022-04-25",
+        "categories": "social",
+        "tags": ["task"]
+    },
+    {
+        "title": "Buy Furniture",
+        "description": "The task was to research, select, and purchase furniture for a living room in a new house. The furniture items required were a sofa, armchair, coffee table, and rug. The furniture needed to be comfortable, stylish, and fit within the budget and design preferences of the homeowner.",
+        "created_at": "2023-04-03",
+        "categories": "Physical",
+        "tags": ["task"]
+    },
+    {
+        "title": "Go to University",
+        "description": "The task was to research, apply, and enroll in a university program that fits within the academic interests and career goals of the applicant. The university program needed to be accredited, reputable, and within the budget of the applicant. The task also required the completion of necessary documents, such as transcripts and letters of recommendation, and coordination with the university admissions office.",
+        "created_at": "2023-05-11",
+        "categories": "Physical",
+        "tags": ["task"]
+    },
+    {
+        "title": "Eat Milk",
+        "description": "Eating milk gives energy to the body and increases immunity. Milk is a nutrient-rich liquid produced by mammals, primarily to feed their young. Cow's milk is the most commonly consumed type of milk, but other mammals such as goats, sheep, and buffalos also produce milk that can be consumed. Milk contains a variety of nutrients such as protein, calcium, vitamin D, and vitamin B12, and is often fortified with other vitamins and minerals as well.",
+        "created_at": "2023-02-01",
+        "categories": "Physical",
+        "tags": ["task"]
+    },
+    {
+        "title": "Buy Bread",
+        "description": "Bread is a tasty food that contains sugar.The task was to purchase bread from the grocery store. The bread needed to be of good quality, fresh, and within the budget of the requester. The task also required the bread to be purchased at a specific grocery store location and brought back to the requester's home.",
+        "created_at": "2022-02-11",
+        "categories": "Physical",
+        "tags": ["task"]
+    },
+    {
+        "title": "Complete the API development",
+        "description": "The task was to design and develop a RESTful API for an online store that allows customers to browse and purchase products, as well as manage their accounts and orders. The API was required to be scalable, secure, and compliant with industry standards and best practices.",
+        "created_at": "2023-07-10",
+        "categories": "social",
+        "tags": ["task"]
+    },
+    {
+        "title": "Go Shopping",
+        "description": "The task is to go shopping for groceries at a nearby supermarket. The task requires the purchase of various food items, such as fruits, vegetables, meat, dairy products, and pantry staples. The task also requires checking the prices and ensuring that the items are within the budget of the requester. Finally, the task requires transporting the purchased items to the requester's home and ensuring that they are in good condition.",
+        "created_at": "2022-12-08",
+        "categories": "Physical",
+        "tags": ["task"]
+    },
+    {
+        "title": "Finish project",
+        "description": "The task is to finish a project by a set deadline. The project may be a work-related project, a school assignment, or a personal project. The task requires organizing the project tasks, identifying the necessary resources, and allocating time for completing each task. The task also requires tracking the progress of the project, addressing any issues or challenges that arise, and making necessary adjustments to ensure that the project is completed on time.",
+        "created_at": "2023-08-20",
+        "categories": "social",
+        "tags": ["task"]
+    }
+]
